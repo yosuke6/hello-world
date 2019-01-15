@@ -6,5 +6,5 @@ install:
 matrix:
   fast_finish: true
 test_script:
- # - npm run test
+  - npm run test
 build: off
